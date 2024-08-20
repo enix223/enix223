@@ -4,7 +4,7 @@
 
 ### :zap: About Me
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HTHou&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=enix223&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
    
 Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
@@ -19,29 +19,14 @@ Most used languages across my projects:
 <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
 
 
-<!--![](https://github.com/HTHou/HTHou/blob/output/github-contribution-grid-snake.svg)-->
+<!--![](https://github.com/enix223/enix223/blob/output/github-contribution-grid-snake.svg)-->
 
-<!--![Haonan Hou's github stats](https://github-readme-stats.vercel.app/api?username=HTHou&count_private=true&show_icons=true&theme=onedark)-->
+<!--![Enix Yu's github stats](https://github-readme-stats.vercel.app/api?username=enix223&count_private=true&show_icons=true&theme=onedark)-->
 
-<!--![Haonan Hou's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HTHou&layout=compact&theme=onedark)-->
+<!--![Enix Yu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enix223&layout=compact&theme=onedark)-->
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTHou&theme=onedark&layout=compact)-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enix223&theme=onedark&layout=compact)-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-<!--
-**HTHou/HTHou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

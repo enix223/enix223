@@ -32,8 +32,4 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/cloudesk-top/issues/issues/4) in [cloudesk-top/issues](https://github.com/cloudesk-top/issues)
-2. ❗ Opened issue [#3](https://github.com/cloudesk-top/issues/issues/3) in [cloudesk-top/issues](https://github.com/cloudesk-top/issues)
-3. 🗣 Commented on [#25940](https://github.com/taosdata/TDengine/issues/25940#issuecomment-2137082686) in [taosdata/TDengine](https://github.com/taosdata/TDengine)
-4. 🔓 Reopened issue [#25940](https://github.com/taosdata/TDengine/issues/25940) in [taosdata/TDengine](https://github.com/taosdata/TDengine)
 <!--END_SECTION:activity-->

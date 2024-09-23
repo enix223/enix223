@@ -32,6 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/cloudesk-top/issues/issues/4) in [cloudesk-top/issues](https://github.com/cloudesk-top/issues)
-2. ❗ Opened issue [#3](https://github.com/cloudesk-top/issues/issues/3) in [cloudesk-top/issues](https://github.com/cloudesk-top/issues)
+1. ❌ Closed PR [#6](https://github.com/djolar/djolar-mybatis/pull/6) in [djolar/djolar-mybatis](https://github.com/djolar/djolar-mybatis)
+2. ❌ Closed PR [#7](https://github.com/djolar/djolar-mybatis/pull/7) in [djolar/djolar-mybatis](https://github.com/djolar/djolar-mybatis)
 <!--END_SECTION:activity-->

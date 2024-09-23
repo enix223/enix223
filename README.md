@@ -6,7 +6,7 @@
    
 Joined Github **11** years ago.
 
-Since then I pushed **1463** commits, opened **35** issues, submitted **20** pull requests, received **16** stars across **51** personal projects and contributed to **10** public repositories.
+Since then I pushed **1464** commits, opened **36** issues, submitted **20** pull requests, received **16** stars across **51** personal projects and contributed to **10** public repositories.
 
 Most used languages across my projects:
 
@@ -32,6 +32,4 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/djolar/djolar-mybatis/pull/6) in [djolar/djolar-mybatis](https://github.com/djolar/djolar-mybatis)
-2. ❌ Closed PR [#7](https://github.com/djolar/djolar-mybatis/pull/7) in [djolar/djolar-mybatis](https://github.com/djolar/djolar-mybatis)
 <!--END_SECTION:activity-->

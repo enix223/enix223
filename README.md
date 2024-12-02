@@ -6,7 +6,7 @@
    
 Joined Github **12** years ago.
 
-Since then I pushed **1565** commits, opened **46** issues, submitted **23** pull requests, received **16** stars across **51** personal projects and contributed to **11** public repositories.
+Since then I pushed **1569** commits, opened **46** issues, submitted **23** pull requests, received **16** stars across **51** personal projects and contributed to **11** public repositories.
 
 Most used languages across my projects:
 
@@ -32,14 +32,4 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/lzhida/tauri-plugin-serialport/pull/7) in [lzhida/tauri-plugin-serialport](https://github.com/lzhida/tauri-plugin-serialport)
-2. ❌ Closed PR [#6](https://github.com/lzhida/tauri-plugin-serialport/pull/6) in [lzhida/tauri-plugin-serialport](https://github.com/lzhida/tauri-plugin-serialport)
-3. 💪 Opened PR [#6](https://github.com/lzhida/tauri-plugin-serialport/pull/6) in [lzhida/tauri-plugin-serialport](https://github.com/lzhida/tauri-plugin-serialport)
-4. ❌ Closed PR [#5](https://github.com/lzhida/tauri-plugin-serialport/pull/5) in [lzhida/tauri-plugin-serialport](https://github.com/lzhida/tauri-plugin-serialport)
-5. 💪 Opened PR [#5](https://github.com/lzhida/tauri-plugin-serialport/pull/5) in [lzhida/tauri-plugin-serialport](https://github.com/lzhida/tauri-plugin-serialport)
-6. ❌ Closed PR [#6](https://github.com/djolar/djolar-mybatis/pull/6) in [djolar/djolar-mybatis](https://github.com/djolar/djolar-mybatis)
-7. ❌ Closed PR [#7](https://github.com/djolar/djolar-mybatis/pull/7) in [djolar/djolar-mybatis](https://github.com/djolar/djolar-mybatis)
-8. 🗣 Commented on [#8](https://github.com/djolar/djolar-mybatis/issues/8#issuecomment-2367361964) in [djolar/djolar-mybatis](https://github.com/djolar/djolar-mybatis)
-9. 🔒 Closed issue [#8](https://github.com/djolar/djolar-mybatis/issues/8) in [djolar/djolar-mybatis](https://github.com/djolar/djolar-mybatis)
-10. ❗ Opened issue [#8](https://github.com/djolar/djolar-mybatis/issues/8) in [djolar/djolar-mybatis](https://github.com/djolar/djolar-mybatis)
 <!--END_SECTION:activity-->

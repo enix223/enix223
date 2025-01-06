@@ -6,7 +6,7 @@
    
 Joined Github **12** years ago.
 
-Since then I pushed **1627** commits, opened **48** issues, submitted **23** pull requests, received **16** stars across **51** personal projects and contributed to **10** public repositories.
+Since then I pushed **1628** commits, opened **48** issues, submitted **23** pull requests, received **16** stars across **51** personal projects and contributed to **10** public repositories.
 
 Most used languages across my projects:
 
@@ -32,9 +32,4 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/lzhida/tauri-plugin-serialport/pull/7) in [lzhida/tauri-plugin-serialport](https://github.com/lzhida/tauri-plugin-serialport)
-2. ❌ Closed PR [#6](https://github.com/lzhida/tauri-plugin-serialport/pull/6) in [lzhida/tauri-plugin-serialport](https://github.com/lzhida/tauri-plugin-serialport)
-3. 💪 Opened PR [#6](https://github.com/lzhida/tauri-plugin-serialport/pull/6) in [lzhida/tauri-plugin-serialport](https://github.com/lzhida/tauri-plugin-serialport)
-4. ❌ Closed PR [#5](https://github.com/lzhida/tauri-plugin-serialport/pull/5) in [lzhida/tauri-plugin-serialport](https://github.com/lzhida/tauri-plugin-serialport)
-5. 💪 Opened PR [#5](https://github.com/lzhida/tauri-plugin-serialport/pull/5) in [lzhida/tauri-plugin-serialport](https://github.com/lzhida/tauri-plugin-serialport)
 <!--END_SECTION:activity-->

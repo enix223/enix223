@@ -32,9 +32,4 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/lzhida/tauri-plugin-serialport/pull/7) in [lzhida/tauri-plugin-serialport](https://github.com/lzhida/tauri-plugin-serialport)
-2. ❌ Closed PR [#6](https://github.com/lzhida/tauri-plugin-serialport/pull/6) in [lzhida/tauri-plugin-serialport](https://github.com/lzhida/tauri-plugin-serialport)
-3. 💪 Opened PR [#6](https://github.com/lzhida/tauri-plugin-serialport/pull/6) in [lzhida/tauri-plugin-serialport](https://github.com/lzhida/tauri-plugin-serialport)
-4. ❌ Closed PR [#5](https://github.com/lzhida/tauri-plugin-serialport/pull/5) in [lzhida/tauri-plugin-serialport](https://github.com/lzhida/tauri-plugin-serialport)
-5. 💪 Opened PR [#5](https://github.com/lzhida/tauri-plugin-serialport/pull/5) in [lzhida/tauri-plugin-serialport](https://github.com/lzhida/tauri-plugin-serialport)
 <!--END_SECTION:activity-->

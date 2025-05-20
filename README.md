@@ -6,7 +6,7 @@
    
 Joined Github **12** years ago.
 
-Since then I pushed **1926** commits, opened **50** issues, submitted **23** pull requests, received **16** stars across **37** personal projects and contributed to **9** public repositories.
+Since then I pushed **1931** commits, opened **50** issues, submitted **23** pull requests, received **16** stars across **37** personal projects and contributed to **9** public repositories.
 
 Most used languages across my projects:
 
@@ -32,6 +32,4 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v0.2.0](https://github.com/enix223/rsendmail/releases/tag/v0.2.0) in [enix223/rsendmail](https://github.com/enix223/rsendmail)
-2. 🚀 Published release [Release v0.2.0](https://github.com/enix223/rsendmail/releases/tag/v0.2.0) in [enix223/rsendmail](https://github.com/enix223/rsendmail)
 <!--END_SECTION:activity-->

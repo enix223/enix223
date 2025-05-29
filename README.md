@@ -32,4 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🚀 Published release [Release v0.2.0](https://github.com/enix223/rsendmail/releases/tag/v0.2.0) in [enix223/rsendmail](https://github.com/enix223/rsendmail)
+2. 🚀 Published release [Release v0.2.0](https://github.com/enix223/rsendmail/releases/tag/v0.2.0) in [enix223/rsendmail](https://github.com/enix223/rsendmail)
 <!--END_SECTION:activity-->

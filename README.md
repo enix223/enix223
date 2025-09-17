@@ -6,7 +6,7 @@
    
 Joined Github **12** years ago.
 
-Since then I pushed **919** commits, opened **20** issues, submitted **24** pull requests, received **16** stars across **38** personal projects and contributed to **8** public repositories.
+Since then I pushed **920** commits, opened **20** issues, submitted **24** pull requests, received **16** stars across **38** personal projects and contributed to **8** public repositories.
 
 Most used languages across my projects:
 
@@ -32,6 +32,4 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/enix223/android-tutorial-slides/pull/1) in [enix223/android-tutorial-slides](https://github.com/enix223/android-tutorial-slides)
-2. 🗣 Commented on [#23414](https://github.com/taosdata/TDengine/issues/23414#issuecomment-3227187441) in [taosdata/TDengine](https://github.com/taosdata/TDengine)
 <!--END_SECTION:activity-->

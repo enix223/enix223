@@ -4,9 +4,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=enix223&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
    
-Joined Github **12** years ago.
+Joined Github **13** years ago.
 
-Since then I pushed **946** commits, opened **20** issues, submitted **24** pull requests, received **16** stars across **38** personal projects and contributed to **8** public repositories.
+Since then I pushed **948** commits, opened **20** issues, submitted **24** pull requests, received **16** stars across **38** personal projects and contributed to **8** public repositories.
 
 Most used languages across my projects:
 

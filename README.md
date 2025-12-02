@@ -32,4 +32,7 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#33710](https://github.com/taosdata/TDengine/issues/33710#issuecomment-3587630815) in [taosdata/TDengine](https://github.com/taosdata/TDengine)
+2.  Labeled issue [#33710](https://github.com/taosdata/TDengine/issues/33710) in [taosdata/TDengine](https://github.com/taosdata/TDengine)
+3. ❗ Opened issue [#33710](https://github.com/taosdata/TDengine/issues/33710) in [taosdata/TDengine](https://github.com/taosdata/TDengine)
 <!--END_SECTION:activity-->

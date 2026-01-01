@@ -32,4 +32,6 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. ❌ Merged PR [#1880](undefined) in [distribworks/dkron](https://github.com/distribworks/dkron)
+2. 💪 Opened PR [#1880](undefined) in [distribworks/dkron](https://github.com/distribworks/dkron)
 <!--END_SECTION:activity-->

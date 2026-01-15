@@ -6,7 +6,7 @@
    
 Joined Github **13** years ago.
 
-Since then I pushed **1065** commits, opened **21** issues, submitted **24** pull requests, received **17** stars across **40** personal projects and contributed to **10** public repositories.
+Since then I pushed **1066** commits, opened **21** issues, submitted **24** pull requests, received **17** stars across **40** personal projects and contributed to **10** public repositories.
 
 Most used languages across my projects:
 
@@ -32,6 +32,4 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1880](https://github.com/distribworks/dkron/pull/1880) in [distribworks/dkron](https://github.com/distribworks/dkron)
-2. 💪 Opened PR [#1880](https://github.com/distribworks/dkron/pull/1880) in [distribworks/dkron](https://github.com/distribworks/dkron)
 <!--END_SECTION:activity-->

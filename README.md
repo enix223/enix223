@@ -6,7 +6,7 @@
    
 Joined Github **13** years ago.
 
-Since then I pushed **1077** commits, opened **22** issues, submitted **24** pull requests, received **17** stars across **40** personal projects and contributed to **12** public repositories.
+Since then I pushed **1077** commits, opened **22** issues, submitted **24** pull requests, received **17** stars across **40** personal projects and contributed to **11** public repositories.
 
 Most used languages across my projects:
 
@@ -32,5 +32,4 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#21](https://github.com/feiskyer/openclaw-kubernetes/issues/21) in [feiskyer/openclaw-kubernetes](https://github.com/feiskyer/openclaw-kubernetes)
 <!--END_SECTION:activity-->

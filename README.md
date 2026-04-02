@@ -32,4 +32,5 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#21](https://github.com/feiskyer/openclaw-kubernetes/issues/21) in [feiskyer/openclaw-kubernetes](https://github.com/feiskyer/openclaw-kubernetes)
 <!--END_SECTION:activity-->

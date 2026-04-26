@@ -6,7 +6,7 @@
    
 Joined Github **13** years ago.
 
-Since then I pushed **1081** commits, opened **23** issues, submitted **24** pull requests, received **17** stars across **40** personal projects and contributed to **12** public repositories.
+Since then I pushed **1083** commits, opened **23** issues, submitted **24** pull requests, received **17** stars across **40** personal projects and contributed to **12** public repositories.
 
 Most used languages across my projects:
 
@@ -32,5 +32,4 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#14874](https://github.com/toeverything/AFFiNE/issues/14874) in [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
 <!--END_SECTION:activity-->

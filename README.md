@@ -32,5 +32,4 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#14874](https://github.com/toeverything/AFFiNE/issues/14874) in [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
 <!--END_SECTION:activity-->

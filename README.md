@@ -6,7 +6,7 @@
    
 Joined Github **13** years ago.
 
-Since then I pushed **1084** commits, opened **23** issues, submitted **24** pull requests, received **17** stars across **40** personal projects and contributed to **11** public repositories.
+Since then I pushed **1085** commits, opened **23** issues, submitted **24** pull requests, received **17** stars across **40** personal projects and contributed to **11** public repositories.
 
 Most used languages across my projects:
 
@@ -32,7 +32,4 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14874](https://github.com/toeverything/AFFiNE/issues/14874#issuecomment-4334187659) in [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-2. 🗣 Commented on [#14874](https://github.com/toeverything/AFFiNE/issues/14874#issuecomment-4325202796) in [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-3. ❗ Opened issue [#14874](https://github.com/toeverything/AFFiNE/issues/14874) in [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
 <!--END_SECTION:activity-->

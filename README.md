@@ -32,4 +32,5 @@ Most used languages across my projects:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#14874](https://github.com/toeverything/AFFiNE/issues/14874#issuecomment-4334187659) in [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
 <!--END_SECTION:activity-->
